@@ -1480,6 +1480,7 @@ _LocalStorage etc._
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+- [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
 
 ##### Mobx
 
